@@ -12,10 +12,6 @@ This repository consists of files required for end to end implementation and dep
 
 ## About the App
 
-A glimpse of the web app:
-
-![GIF](readme_resources/tomato_2.gif)
-
 The Potato Leaf Disease Detector is a flask web application which classifies a plant/leaf image into 3 categories viz. 'Potato Early Blight', 'Potato Late Blight' and 'Potato Healthy'. The code is written in Python 3.6.10 and makes use of Keras and Tensorflow libraries in developing an InceptionV3 based image classification web application. 
 
 If you don't have Python installed, you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
